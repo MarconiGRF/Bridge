@@ -5,6 +5,7 @@
     "analytics": false,
     "packageManager": "pnpm"
   },
+	
   "newProjectRoot": "projects",
   "projects": {
     "Bridge": {
